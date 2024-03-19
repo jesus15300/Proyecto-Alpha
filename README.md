@@ -1,5 +1,5 @@
 # Proyecto para Practicas Profesionales
-Aqui se aloja el proyecto realizado para el club alpha, a continuacion se mencionan las caracteristicas del proyecto.
+Aqui se aloja el proyecto realizado para postulacion a practicas profesionales en club alpha, a continuacion se mencionan las caracteristicas del proyecto.
 ## Uso de Spring Boot
 El proyecto se realizo con Spring Boot en su version 3.2.3 y java 17 ya que la pagina de <a href="https://start.spring.io/">Spring Initialzr</a> no ofrece versiones mas antiguas del framework en cuestion.
 ## Uso de Hibernate
